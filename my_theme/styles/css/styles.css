@@ -1,0 +1,5 @@
+@import url(global.css);
+@import url(layout/header.css);
+@import url(pages/persona.css);
+.foto-persona {
+  max-width: 200px; }
